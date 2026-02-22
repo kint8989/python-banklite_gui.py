@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "vaibhav",
+        "balance": 15744.0,
+        "transactions": [
+            "2026-02-22 17:20:51.760704 - Account created with \u20b912300.0",
+            "2026-02-22 17:21:55.595372 - Withdrew \u20b92300.0",
+            "2026-02-22 17:26:07.882344 - Deposited \u20b92344.0",
+            "2026-02-22 17:38:37.667376 - Received \u20b93400.0 from Account 2"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "vaishnavi",
+        "balance": 446600.0,
+        "transactions": [
+            "2026-02-22 17:24:13.521473 - Account created with \u20b9450000.0",
+            "2026-02-22 17:38:37.667195 - Transferred \u20b93400.0 to Account 1"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "vaibhav ",
+        "balance": 34.0,
+        "transactions": [
+            "2026-02-22 17:52:00.645404 - Account created with \u20b934.0"
+        ]
+    }
+]
